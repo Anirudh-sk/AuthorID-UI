@@ -1,0 +1,7 @@
+{
+  "name": "Author Identification",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
